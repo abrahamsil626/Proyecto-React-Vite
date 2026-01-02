@@ -1,6 +1,6 @@
 # Proyecto React + Vite 🚀
 
-¡Bienvenido a **Rapid Galaxy**! Este es un proyecto moderno desarrollado con **React 19** y **Vite**, diseñado para ser rápido, eficiente y visualmente atractivo.
+¡Bienvenido a **Rapid Galaxy**! Este es un proyecto demo personal desarrollado con **React 19** y **Vite**, diseñado para ser rápido, eficiente y visualmente atractivo.
 
 ## 🛠️ Tecnologías Utilizadas
 
